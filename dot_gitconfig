@@ -1,0 +1,12 @@
+[user]
+	email = me@itstoni.com
+	name = Anthonius Munthi
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /home/toni/.gitignore
+[pull]
+	rebase = true
+[http]
+        postBuffer = 524288000
+        sslVerify = False
